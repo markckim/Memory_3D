@@ -6,6 +6,7 @@ A functional 3D game framework based on OpenGL ES 2.0. The framework explores a 
  * MAAnimationConfig.h
  * MAAnimationCache.h
  * MAGLFrame.h
+ * MAFrameCache.h
 * Sprite Classes
  * MAGLSprite.h
 * Texture Atlas Support (parsing TexturePacker JSON files)
