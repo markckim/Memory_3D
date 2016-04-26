@@ -1,0 +1,138 @@
+{"frames": [
+
+{
+	"filename": "clubs.png",
+	"frame": {"x":764,"y":99,"w":137,"h":148},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":54,"w":137,"h":148},
+	"sourceSize": {"w":256,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "diamonds.png",
+	"frame": {"x":270,"y":2,"w":202,"h":254},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":3,"w":202,"h":254},
+	"sourceSize": {"w":240,"h":260},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "hearts.png",
+	"frame": {"x":526,"y":2,"w":236,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":20,"w":236,"h":216},
+	"sourceSize": {"w":256,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pattern.png",
+	"frame": {"x":2,"y":2,"w":216,"h":900},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":216,"h":900},
+	"sourceSize": {"w":216,"h":900},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "spade_outline.png",
+	"frame": {"x":270,"y":206,"w":172,"h":200},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":28,"w":172,"h":200},
+	"sourceSize": {"w":256,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "spades.png",
+	"frame": {"x":472,"y":220,"w":119,"h":148},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":54,"w":119,"h":148},
+	"sourceSize": {"w":256,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol_apple.png",
+	"frame": {"x":140,"y":904,"w":111,"h":128},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":23,"w":111,"h":128},
+	"sourceSize": {"w":187,"h":175},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol_banana.png",
+	"frame": {"x":764,"y":2,"w":163,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":40,"w":163,"h":95},
+	"sourceSize": {"w":187,"h":175},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol_bar.png",
+	"frame": {"x":929,"y":2,"w":141,"h":55},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":60,"w":141,"h":55},
+	"sourceSize": {"w":187,"h":175},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol_cherry.png",
+	"frame": {"x":472,"y":341,"w":128,"h":133},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":21,"w":128,"h":133},
+	"sourceSize": {"w":187,"h":175},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol_grape.png",
+	"frame": {"x":761,"y":238,"w":100,"h":122},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":26,"w":100,"h":122},
+	"sourceSize": {"w":187,"h":175},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol_lemon.png",
+	"frame": {"x":914,"y":145,"w":137,"h":107},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":34,"w":137,"h":107},
+	"sourceSize": {"w":187,"h":175},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol_peach.png",
+	"frame": {"x":622,"y":220,"w":124,"h":137},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":19,"w":124,"h":137},
+	"sourceSize": {"w":187,"h":175},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol_watermelon.png",
+	"frame": {"x":2,"y":904,"w":136,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":31,"w":136,"h":113},
+	"sourceSize": {"w":187,"h":175},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "symbols_atlas_3.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ed35739629388c28b7f770ed51de3b18:4bece059ae9ae3047bd2242b29a8665c:4ae8c0ac7482b8f54b3eb026d0d92862$"
+}
+}
