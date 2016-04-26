@@ -25,6 +25,6 @@ Animations and game logic classes are built based on the concept of Behavior Tre
 
 A demo game (Memory Card Game) is shown in `MAGLCardMemoryController.m` demonstrating ways in which a number of different base classes in the framework can be used to create a 3D game in OpenGL. The logic within this game is found in `MACardMemoryLogic.m` and demonstrates a method for using behavior trees to control animations and logic.
 
-Here is an video showing the game in action:
+Here is a video showing the game in action:
 
 [![3D Memory Card Game](http://i.imgur.com/NFMGiiO.png)](https://www.youtube.com/watch?v=SN3WDzMHgbE "3D Memory Card Game")
