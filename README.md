@@ -23,7 +23,7 @@ Animations and game logic classes are built based on the concept of Behavior Tre
 * MASequence.h
 * MAFrameAnimationRoutine.h
 
-A demo game (Memory Card Game) is shown in `MAGLCardMemoryController.m` which showing how a number of different base classes in the framework can be used to create a 3D game in OpenGL. The logic within this game is found in `MACardMemoryLogic.m` and demonstrates a method for using behavior trees to control animations and logic.
+A demo game (Memory Card Game) is shown in `MAGLCardMemoryController.m` demonstrating ways in which a number of different base classes in the framework can be used to create a 3D game in OpenGL. The logic within this game is found in `MACardMemoryLogic.m` and demonstrates a method for using behavior trees to control animations and logic.
 
 Here is an video showing the game in action:
 
