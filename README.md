@@ -1,6 +1,6 @@
 # Memory_Game_3D
 
-A functional 3D game framework based on OpenGL ES 2.0. The framework explores a number of concepts needed to create a working framework including
+A functional 3D game framework based on OpenGL ES 2.0. The project explores a number of concepts needed in order to create a working game framework including
 * Animation Classes
  * MAAnimation.h
  * MAAnimationConfig.h
