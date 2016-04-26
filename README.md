@@ -2,19 +2,19 @@
 
 A functional 3D game framework based on OpenGL ES 2.0. The framework explores a number of concepts needed to create a working framework including
 * Animation Classes
-> MAAnimation.h
-> MAAnimationConfig.h
-> MAAnimationCache.h
-> MAGLFrame.h
+ * MAAnimation.h
+ * MAAnimationConfig.h
+ * MAAnimationCache.h
+ * MAGLFrame.h
 * Sprite Classes
-> MAGLSprite.h
+ * MAGLSprite.h
 * Texture Atlas Support (parsing TexturePacker JSON files)
-> MAAtlasData.h
-> MAAtlasFrame.h
-> MAAtlasMeta.h
-> MAAtlasPoint.h
-> MAAtlasSize.h
-> MAAtlasSpriteData.h
+ * MAAtlasData.h
+ * MAAtlasFrame.h
+ * MAAtlasMeta.h
+ * MAAtlasPoint.h
+ * MAAtlasSize.h
+ * MAAtlasSpriteData.h
 
 Animations and game logic classes are built based on the concept of Behavior Trees (https://en.wikipedia.org/wiki/Behavior_tree), and include the following base classes:
 * MARoutine.h
