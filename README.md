@@ -30,3 +30,6 @@ Animations and game logic classes are built based on the concept of Behavior Tre
 * MAComposite.h
 * MASequence.h
 * MAFrameAnimationRoutine.h
+
+Another mini-game example made using this framework:
+* https://www.youtube.com/watch?v=0YxPjhMmldQ
