@@ -8,6 +8,11 @@ Video showing the game in action:
 
 [![3D Memory Card Game](http://i.imgur.com/NFMGiiO.png)](https://www.youtube.com/watch?v=SN3WDzMHgbE "3D Memory Card Game")
 
+Video showing slot machine game prototype spring and touch feedback animations:
+
+[![Slot Machine Game Prototype](http://imgur.com/a/0WeyHla.png)](https://www.youtube.com/watch?v=TuY5dLuANDs "Slot Machine Demo")
+
+
 Functionality includes:
 * Animation Classes
     * MAAnimation.h
@@ -32,4 +37,5 @@ Animations and game logic classes are built based on the concept of Behavior Tre
 * MAFrameAnimationRoutine.h
 
 **Other examples using this framework:**
-* Slot machine game: https://www.youtube.com/watch?v=0YxPjhMmldQ
+* Slot Machine Mini-Game: 
+    * https://www.youtube.com/watch?v=0YxPjhMmldQ
