@@ -12,7 +12,6 @@ Video showing slot machine game prototype spring and touch feedback animations:
 
 [![Slot Machine Game Prototype](http://i.imgur.com/a/0WeyHla.png)](https://www.youtube.com/watch?v=TuY5dLuANDs "Slot Machine Demo")
 
-
 Functionality includes:
 * Animation Classes
     * MAAnimation.h
