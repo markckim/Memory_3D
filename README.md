@@ -4,15 +4,17 @@ A simple 3D game framework based on OpenGL ES 2.0. The project explores a number
 
 Also included is a demo game (Memory Card Game) as shown in `MAGLCardMemoryController.m` demonstrating ways in which a number of different base classes in the framework can be used to create a 3D game in OpenGL. The logic within this game is found in `MACardMemoryLogic.m` and demonstrates a method for using behavior trees to control animations and logic.
 
-Memory Card Game in action:
+Memory Card Game:
 
 [![3D Memory Card Game](http://i.imgur.com/NFMGiiO.png)](https://www.youtube.com/watch?v=SN3WDzMHgbE "3D Memory Card Game")
 
+Slot Machine Game Prototype (spring and touch animations):
 
-Slot Machine Game Prototype in action (spring and touch animations):
+[![3D Slot Machine Game Prototype](https://i.imgur.com/BLHg6Rb.png)](https://www.youtube.com/watch?v=TuY5dLuANDs "Slot Machine Demo")
 
-[![Slot Machine Game Prototype](https://i.imgur.com/BLHg6Rb.png)](https://www.youtube.com/watch?v=TuY5dLuANDs "Slot Machine Demo")
+Matching Mini-Game:
 
+[![3D Matching Mini-Game](https://i.imgur.com/NbeH5xO.png)](https://www.youtube.com/watch?v=0YxPjhMmldQ "Matching Mini-Game")
 
 Functionality includes:
 * Animation Classes
@@ -36,7 +38,3 @@ Animations and game logic classes are built based on the concept of Behavior Tre
 * MAComposite.h
 * MASequence.h
 * MAFrameAnimationRoutine.h
-
-**Other examples using this framework:**
-* Slot Machine Mini-Game: 
-    * https://www.youtube.com/watch?v=0YxPjhMmldQ
